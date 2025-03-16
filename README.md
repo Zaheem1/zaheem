@@ -1,5 +1,4 @@
-# zaheem
-# MERN Portfolio
+# MY Portfolio
 
 A modern portfolio website built using the **MERN** stack (MongoDB, Express, React, Node.js). This project showcases my skills, projects, and experiences in web development.
 
